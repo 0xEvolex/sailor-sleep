@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+build/
+dist/
+myenv/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Python pycache folder
+__pycache__/
+
+# Data directory
+data/

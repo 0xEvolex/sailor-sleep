@@ -1,0 +1,1 @@
+{"AudioFilePath": "C:/Users/pkroll/projects/sailor-sleep/dist/alarm.mp3", "scanForDisconnect": true, "scanForDeath": false, "scanForIngame": false, "deathDelay": 120}
